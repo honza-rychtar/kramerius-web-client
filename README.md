@@ -1,1 +1,3 @@
-Issue tracker pro alternativní webový client Krameria http://janrychtar.cz/kramerius/
+Issue tracker pro webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
+
+Webové rozhraní je dostupné zde: http://digitalniknihovna.cz/
