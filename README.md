@@ -1,6 +1,7 @@
 Digitální knihovna
 ==================
 http://www.digitalniknihovna.cz
+
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 ### Verze 0.4.5 (18.3.2017)
