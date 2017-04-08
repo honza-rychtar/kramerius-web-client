@@ -5,6 +5,10 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.4.9 (7.4.2017)
+* Optimalizace pro mobilní zařízení - zobrazení filtrů u hledání a procházení a hledání přes lupu v toolbaru
+* Proklik z autora, jazyka, klíčového slova a typu dokumentu v podrobnostech na seznam všech dokumentů s daným klíčem (všechny dokumenty vybraného autora atd.)
+
 ### Verze 0.4.8 (6.4.2017)
 * Spojitý zoom v prohlížečce
 
