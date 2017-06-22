@@ -5,6 +5,11 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.5.1 (22.6.2017)
+* Procházení vícesvazkových monografií jako u periodika
+* Rok vydání na kartách s výsledky hledání, novinkami a doporučenými tituly
+* Integrace Facebook Like & Share tlačítka
+
 ### Verze 0.5.0 (12.6.2017)
 * Chronologické řazení výsledků hledání
 
