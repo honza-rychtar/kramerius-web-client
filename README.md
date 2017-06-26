@@ -5,6 +5,13 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.5.2 (26.6.2017)
+* Filtrování výsledku procházení přes počáteční písmeno
+* Seznam sbírek přesunut do procházení
+* Sbírky je možné řadit podle abecedy, filtrovat podle dostupnosti a počátečního písmene
+* Přenesení filtru dostupnosti z procházení do hledání
+* Oprava abecedního řazení u procházení přes jazyk a typ dokumentu
+
 ### Verze 0.5.1 (22.6.2017)
 * Procházení vícesvazkových monografií jako u periodika
 * Rok vydání na kartách s výsledky hledání, novinkami a doporučenými tituly
