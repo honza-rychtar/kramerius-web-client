@@ -5,6 +5,9 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.5.3 (30.6.2017)
+* Lišta se souhlasem s používáním cookies
+
 ### Verze 0.5.2 (26.6.2017)
 * Filtrování výsledku procházení přes počáteční písmeno
 * Seznam sbírek přesunut do procházení
