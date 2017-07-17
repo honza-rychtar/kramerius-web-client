@@ -5,6 +5,12 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.5.4 (17.7.2017)
+* Lepší navigace v periodiku
+* Zobrazení čísel periodika přes seznam, mřížku nebo kalendář
+* Zobrazení ročníků periodika přes seznam nebo mřížku
+* Drobné úpravy vzhledu
+
 ### Verze 0.5.3 (30.6.2017)
 * Lišta se souhlasem s používáním cookies
 
