@@ -5,6 +5,12 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.5.6 (21.11.2017)
+* Zobrazení geografických názvů v podrobnostech
+* Seřazení našeptávaných výsledků podle pozice hledaného textu
+* Oprava chybnného načítání kalendáře na konci měsíce
+* Oprava našeptávače u hledání v periodiku
+
 ### Verze 0.5.5 (19.7.2017)
 * Zobrazení ročníků periodika přes seznam roků i s vynechanými ročníky
 
