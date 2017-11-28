@@ -5,6 +5,9 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.5.7 (22.11.2017)
+* Fulltextové hledání s libovolným umístěním zadaných slov, přesná shoda pomocí uvozovek
+
 ### Verze 0.5.6 (21.11.2017)
 * Zobrazení geografických názvů v podrobnostech
 * Seřazení našeptávaných výsledků podle pozice hledaného textu
