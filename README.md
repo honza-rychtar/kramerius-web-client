@@ -5,6 +5,10 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.5.8 (31.1.2018)
+* Změna řazení ročníků a čisel periodika - pokud mají stejné datum, tak se seřadí podle názvu čísla/ročníku
+* Oprava chybného načítání kalendáře na konci měsíce
+
 ### Verze 0.5.7 (22.11.2017)
 * Fulltextové hledání s libovolným umístěním zadaných slov, přesná shoda pomocí uvozovek
 
