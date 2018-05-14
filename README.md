@@ -5,6 +5,11 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.6.1 (14.5.2018)
+* Přechod na předchozí/další ročník v prohlížečce, pokud jsou stránky přímo pod ročníkem (vhodné pro navigaci v ročenkach, kalendářích apod.)
+* Pokud ročník obsahuje jen jedno číslo, tak se přejde rovnou na číslo
+* Přechod na seznam ročníků z prohlížečky.
+
 ### Verze 0.6.0 (11.3.2018)
 * Při vyhledávání s omezeným rokem vydání se toto omezení přenáší do fulltextových výsledků v periodiku
 
