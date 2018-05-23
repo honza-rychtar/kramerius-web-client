@@ -5,6 +5,10 @@ http://www.digitalniknihovna.cz
 Webové rozhraní systému [Kramerius](https://github.com/ceskaexpedice/kramerius)
 ## Novinky
 
+### Verze 0.6.2 (23.5.2018)
+* Prezentace sbírek včetně popisu a reprezentativního obrázku. Zatím funguje jen u [MZK](http://www.digitalniknihovna.cz/mzk/collections)
+
+
 ### Verze 0.6.1 (14.5.2018)
 * Přechod na předchozí/další ročník v prohlížečce, pokud jsou stránky přímo pod ročníkem (vhodné pro navigaci v ročenkach, kalendářích apod.)
 * Pokud ročník obsahuje jen jedno číslo, tak se přejde rovnou na číslo
